@@ -1,0 +1,18 @@
+
+sudo apt install flatpak
+
+flatpak remote-add --user --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+
+
+
+
+flatpak install flathub com.obsproject.Studio
+
+==> choose option --> 1) System
+
+flatpak install flathub com.obsproject.Studio.Plugin.BackgroundRemoval
+
+==> choose option--> 1) System
+
+
+then >> find the application from the search bar  > > then enjoy..
